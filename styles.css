@@ -17,6 +17,11 @@ html {
     color: #800020
   }
   
+  a tribute-link:focus {
+    color:#800020;
+    outline: none;
+}
+
   #main{
     margin: 30px 8px;
     padding: 10px;
