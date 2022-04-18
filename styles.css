@@ -1,1 +1,99 @@
-/* Copy and paste your CSS from CodePen into here */
+html {
+    font-size: 10px;
+  }
+  
+  body{ 
+    font-family: 'Bebas Neue', regular;
+    line-height: 1.5rem;
+    font-size: 1.6rem;
+    text-align: center;
+    color: #333;
+  }
+  
+  a{ color: red
+  }
+  
+  a:visited{ 
+    color: #800020
+  }
+  
+  #main{
+    margin: 30px 8px;
+    padding: 10px;
+    border-radius: 5px;
+    background: 000
+  }
+  
+  h1{ font-size: 8rem;
+    margin-bottom: 2rem;
+    }
+  
+  #sub-heading1{
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.5;
+    color: red;
+  }
+  
+  #sub-heading2{
+    font-size: 2rem;
+    margin: 0rem;  
+  }
+  
+  img {max-width: 1000px;
+  
+  }
+  
+  #img-div {
+    background: 111;
+    padding: 10px;
+    margin: 1;
+  }
+  
+  #img-caption{ 
+  margin: 5px 0px 5px 0px;
+    font-size: 1.5rem;
+  }
+  
+  h3{
+    font-size: 3rem;
+    margin: 100px 0px 20px 0px;
+  }
+  
+  #main-paragraph{
+    font-size: 2rem;
+    margin: 5px 0px 5px 0px;
+    line-height: 1.6rem;
+  }
+  
+  h4{ 
+  text-align: center;
+  margin: 50px 0px 20px 0px;
+  font-size: 2.5rem;
+  }
+  
+  ul{
+    margin: 50px auto 20px auto;
+    text-align: left;
+    Line-height: 2.1rem;
+    font-size: 2rem; 
+    display: inline-block;
+  }
+  
+  li{
+    margin: 16px 0px 16px 0px;
+  }
+  
+  blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    font-size: 3rem;
+    line-height: 3.1rem;
+    color: red;
+  }
+  
+  h5{
+    font-size: 3rem;  
+  }
